@@ -1,6 +1,8 @@
-listadoCelulares = [
-		{
-			"marca": "Motorola",
+listadoCelulares
+ [
+ {
+
+	        "marca":"Motorola",
 			"modelo": "G 4 PLAY",
 			"sistema_operativo": "Android",
 			"pantalla_pulgadas": 5,
@@ -10,6 +12,7 @@ listadoCelulares = [
 			"camara_frontal_res": "5 Mpx",
 			"memoria_interna": "16 GB"
 		},
+		
 		{
 			"marca": "Motorola",
 			"modelo": "G 4 PLAY",
@@ -84,8 +87,11 @@ listadoCelulares = [
 			"camara_frontal": true,
 			"camara_frontal_res": "5 Mpx",
 			"memoria_interna": "16 GB",
-			"flash": true
-		}
+		    "flash": true
+	
+	
+	
+	}
 	];
 
 

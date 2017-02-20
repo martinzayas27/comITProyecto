@@ -1,11 +1,16 @@
 body {
-	font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-	font-size: 13px;
+	font-family:calibri, Helvetica, 'Nimbus Sans L', sans-serif;
+	font-size: 15px;
 }
 
 #mensaje {
 	/*display: none;*/
 	visibility: hidden;
-	width: 0;
-	height: 0;
+	width: 20;
+	height: 10;
+}
+
+table, td,th {
+	
+	border: 1px solid black;
 }
